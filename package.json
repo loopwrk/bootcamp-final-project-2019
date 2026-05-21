@@ -44,7 +44,7 @@
         "spiced-pg": "^1.0.4",
         "tone": "^13.8.25",
         "uid-safe": "^2.1.5",
-        "uuid": "^9.0.1",
+        "uuid": "^14.0.0",
         "webpack": "^5.90.0",
         "webpack-dev-middleware": "^7.0.0",
         "terser-webpack-plugin": "^5.3.10"
