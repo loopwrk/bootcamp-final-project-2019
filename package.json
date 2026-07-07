@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "@babel/cli": "^7.24.0",
-        "@babel/core": "^7.24.0",
+        "@babel/core": "^7.29.6",
         "@babel/preset-env": "^7.24.0",
         "@babel/preset-react": "^7.24.0",
         "@testing-library/react": "^14.0.0",
