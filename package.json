@@ -18,7 +18,7 @@
         "@babel/preset-react": "^7.24.0",
         "@testing-library/react": "^14.0.0",
         "aws-sdk": "^2.1500.0",
-        "axios": "^1.6.0",
+        "axios": "^1.18.0",
         "babel-loader": "^9.1.0",
         "bcryptjs": "^2.4.3",
         "compression": "^1.7.4",
